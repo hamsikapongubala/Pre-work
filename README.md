@@ -6,7 +6,7 @@ Codepath prework
 Changes text color, view color, and label text to user input.
 
 ### App Walk-through
-![](preworkVideo.gif)
+![](preworkGIF.gif)
 <img src="file:///Users/hamsikapongubala/Desktop/preworkVideo.gif" width=200><br>
 
 ### Required User Stories
