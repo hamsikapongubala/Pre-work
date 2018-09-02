@@ -3,7 +3,7 @@ Codepath prework
 ## Pre-Work App
 
 ### App Description
-`TODO://` Changes text color, view color, and label text to user input.
+Changes text color, view color, and label text to user input.
 
 ### App Walk-through
 ![](preworkVideo.gif)
