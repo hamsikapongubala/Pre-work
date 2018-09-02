@@ -6,7 +6,7 @@ Codepath prework
 `TODO://` Changes text color, view color, and label text to user input.
 
 ### App Walk-though
-
+![](preworkVideo.gif)
 <img src="file:///Users/hamsikapongubala/Desktop/preworkVideo.gif" width=200><br>
 
 ### Required User Stories
